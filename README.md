@@ -8,3 +8,4 @@ $ go run *.go
 
 Progress bar in golang.
 Uses a goroutine to communicate progress.
+github provided the slick repo name.
