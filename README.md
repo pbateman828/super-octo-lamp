@@ -1,5 +1,9 @@
 # super-octo-lamp
 
+Checkout golang. 
+
+https://golang.org/
+
 Commands for use:
 
 ```sh
